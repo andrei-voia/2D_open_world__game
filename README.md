@@ -1,1 +1,1 @@
-# 2D_open_world__game
+# Simple 2D Open World Game
