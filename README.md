@@ -12,3 +12,11 @@ This is a simple game, based on the idea of a open world type of game.
 This is how the game looks like:
 
 ![alt text](https://github.com/andrei-voia/2D_open_world_game/blob/master/Screenshot_1.png "map")
+
+After you chop down a tree, it drops wood
+
+![alt text](https://github.com/andrei-voia/2D_open_world_game/blob/master/Screenshot_2.png "map")
+
+And this is your inventory
+
+![alt text](https://github.com/andrei-voia/2D_open_world_game/blob/master/Screenshot_3.png "map")
