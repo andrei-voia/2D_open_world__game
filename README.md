@@ -9,6 +9,9 @@ This is a simple game, based on the idea of a open world type of game.
 * You have static entities on the map,
 * You have a starting menu.
 
+
+## How it looks
+
 This is how the game looks like:
 
 ![alt text](https://github.com/andrei-voia/2D_open_world_game/blob/master/Screenshot_1.png "map")
